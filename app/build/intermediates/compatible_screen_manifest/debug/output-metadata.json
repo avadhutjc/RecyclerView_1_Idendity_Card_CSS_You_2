@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a118july_recyclerview_1_idendity_card_css_you_2",
+  "variantName": "debug",
+  "elements": []
+}
